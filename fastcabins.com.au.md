@@ -1,40 +1,85 @@
+## Missing room? Wish you had more space? ##
 # Fast Cabins #
-## Quality and convenience ##
+## More room, real fast, too easy! ##
 
-# WIN a cabin worth over $15,000 #
+![Fast Cabin Logo]()
 
-![Fast Cabin]()
+![Full Force Logo]()
 
-![Full Force]()
-
-## Cabins proudly built by Full Force Construction Pty Ltd ##
+## Primary Uses ##
 
 ![Residential use](http://lorempixel.com/g/400/200/abstract "")
+Residential use
 
 ![Industral use](http://lorempixel.com/g/400/200/abstract "")
+Industral use
 
 ![Commercial use](http://lorempixel.com/g/400/200/abstract "")
+Commercial use
 
 ![Rental image](http://lorempixel.com/g/400/200/abstract "")
+Rental properties
 
-TEXT ABOUT CABINS
+## What are Fast Cabins? ##
 
-![picture of use](http://lorempixel.com/g/400/200/abstract "")
+Each Fast Cabin is a single powered, transportable room.
+Fast Cabins are warm and secure do not require council approval.
 
-![picture of use](http://lorempixel.com/g/400/200/abstract "")
+## Great Useage Ideas ##
 
-![picture of use](http://lorempixel.com/g/400/200/abstract "")
+There are many ways you could use a fast cabin.
 
-![picture of use](http://lorempixel.com/g/400/200/abstract "")
+![Site Office](http://lorempixel.com/g/400/200/abstract "")
+Site Office
 
-![picture of use](http://lorempixel.com/g/400/200/abstract "")
+![Holiday Park Cabin](http://lorempixel.com/g/400/200/abstract "")
+Holiday Park Cabin
 
-![picture of use](http://lorempixel.com/g/400/200/abstract "")
+![Extra Bedroom](http://lorempixel.com/g/400/200/abstract "")
+Extra Bedroom
+
+![Kids Room](http://lorempixel.com/g/400/200/abstract "")
+Kids Room
+
+![Home Office](http://lorempixel.com/g/400/200/abstract "")
+Home Office
+
+![Portable Office](http://lorempixel.com/g/400/200/abstract "")
+Portable Office
+
+![Caravan Alternative](http://lorempixel.com/g/400/200/abstract "")
+Caravan Alternative
 
 ## Testimonials ##
 
+"The boss needed a new site cabin, I mentioned fast cabins and he loved the idea" -- A Worker
+
+"When our son got older I knew we needed more space, Fast Cabins gave us room without having to build" - Ms Mother
+
+"I always wanted a home studio but didn't think I could afford one, then I found Fast Cabins. Perfect" - Mr Photo
+
+## What do you get? ##
+
+All fast cabins include:
+
+- Secure door
+- Airconditing
+- Powerpoints
+- Window
+- Secure construction
+
 ## Pricing information ##
 
-![Marketing image](http://lorempixel.com/g/991/400/abstract "")
+Fast cabins are delievered onsite within 7 days of order.
+Your investment is $15,000.
 
-Contact details
+## Order today ##
+
+Call 1800 FASTCABIN today and secure your fast cabin.
+
+Join our mailing list and go in for a chance to win your own Fast Cabin worth $15,000!
+
+## Footer ##
+
+Cabins proudly built by Full Force Construction Pty Ltd
+Site created by Deming Factor
