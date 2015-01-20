@@ -15,3 +15,8 @@ body {
 img {
 	margin: 15px 0;
 }
+
+#footer {
+	background-color: lightgray;
+	margin-bottom: 0;
+}
