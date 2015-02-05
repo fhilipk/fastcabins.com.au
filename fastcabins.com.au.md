@@ -1,6 +1,6 @@
 ## Missing room? Wish you had more space? ##
 # Fast Cabins #
-## More room, real fast, too easy! ##
+## A Little Extra Room ##
 
 ![Fast Cabin Logo]()
 
@@ -8,17 +8,21 @@
 
 ## Primary Uses ##
 
+Experience the differenece a little extra space can give to the quality of your life.
+
+Weather it be in the home, office, farm or work site, just a little extra room gives you so much more than just space.
+
 ![Residential use](http://lorempixel.com/g/400/200/abstract "")
-Residential use
+Quiet Spot
 
-![Industral use](http://lorempixel.com/g/400/200/abstract "")
-Industral use
+![Industral use - site office](http://lorempixel.com/g/400/200/abstract "")
+Tidy space
 
-![Commercial use](http://lorempixel.com/g/400/200/abstract "")
-Commercial use
+![Commercial use - lounge](http://lorempixel.com/g/400/200/abstract "")
+Restful retreat
 
 ![Rental image](http://lorempixel.com/g/400/200/abstract "")
-Rental properties
+Cosy place
 
 ## What are Fast Cabins? ##
 
@@ -62,11 +66,13 @@ Caravan Alternative
 
 All fast cabins include:
 
-- Secure door
+- Secure door and window
 - Airconditing
-- Powerpoints
+- Fully insulated
+- Power points, fused and safty swithed
 - Window
 - Secure construction
+- painted
 
 ## Pricing information ##
 
