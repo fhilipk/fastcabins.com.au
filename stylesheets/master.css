@@ -16,7 +16,8 @@ body {
 
 img {
 	margin: 15px auto;
-
+	border: 1px solid gray;
+	padding: 0 -100px;
 }
 
 #footer {
