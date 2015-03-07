@@ -25,6 +25,10 @@ body {
 	font-size: 250%;
 }
 
+#description {
+	margin-top: 100px;
+}
+
 h2 {
 	color: #7B52AB;
 
