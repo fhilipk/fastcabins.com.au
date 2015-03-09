@@ -36,7 +36,6 @@ h2 {
 
 img {
 	margin: 15px auto;
-	border: 1px solid gray;
 	padding: 0 -100px;
 	width: 600px;
 }
@@ -62,3 +61,17 @@ ul li img {
   cursor: pointer;
   max-width: 250px;
 }
+
+--------------
+/*Media*/
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: @screen-sm-min) {
+	ul li img {
+		margin-right: 42px;
+	}
+	body {
+		background-color: red;
+	}
+}
+
